@@ -56,7 +56,7 @@ a complete open technical ecosystem for the game’s future.
 
 - Decompiled for archival and historical reference  
 - Retains legacy editing logic for research and comparison  
-- **Not yet documented** — preserved in raw decompiled form
+- **Not documented** — preserved in raw decompiled form updated to .NET 8
 
 ---
 
