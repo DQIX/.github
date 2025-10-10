@@ -16,9 +16,9 @@ a complete open technical ecosystem for the game’s future.
 > A comprehensive Discord bot for *Dragon Quest IX*.
 
 
-- Full in-game database: recipes, quests, monsters, and grottos  
+- Full game database: recipes, quests, monsters, and grottos  
 - Random character generation
-- In-Discord playback of the entire DQIX soundtrack  
+- Playback of the entire DQIX soundtrack  
 - Regional term translation and cross-version name lookup  
 - Constantly expanding knowledge base drawn from in-game data
 
