@@ -11,8 +11,10 @@ a complete open technical ecosystem for the game’s future.
 
 ## 🧩 Projects
 
+
 ### **[Collapsus](https://github.com/DQIX/Collapsus)**
 > A comprehensive Discord bot for *Dragon Quest IX*.
+
 
 - Full in-game database: recipes, quests, monsters, and grottos  
 - Random character generation
@@ -20,28 +22,36 @@ a complete open technical ecosystem for the game’s future.
 - Regional term translation and cross-version name lookup  
 - Constantly expanding knowledge base drawn from in-game data
 
+
 ---
+
 
 ### **[dqix-decomp](https://github.com/DQIX/dqix-decomp)**
 > An ongoing decompilation project for *Dragon Quest IX* using `dsd`.
+
 
 - Focused on reconstructing the game’s original DS binaries  
 - Aimed at future modding, documentation, and research  
 - **Note:** Early-stage work in progress — not yet feature-complete or buildable
 
+
 ---
+
 
 ### **[editor](https://github.com/DQIX/editor)**
 > A modern, **browser-based save editor** for *Dragon Quest IX: Sentinels of the Starry Skies.*
+
 
 - Runs entirely client-side — no downloads or installs  
 - Cross-platform and mobile-friendly  
 - Built for safe, checksum-valid save manipulation  
 - Continuously refined for reliability and accessibility
 
+
 ---
 
-### **[DQIX Save Editor](https://github.com/DQIX/DQIX-Save-Editor)**
+
+### **[DQIX Save Editor](https://github.com/DQIX/DQIX-Save-Editor-Decompilation)**
 > A **decompilation** of the original Windows save editor.
 
 - Decompiled for archival and historical reference  
