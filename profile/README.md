@@ -43,7 +43,6 @@ a complete open technical ecosystem for the game’s future.
 
 
 - Runs entirely client-side — no downloads or installs  
-- Cross-platform and mobile-friendly  
 - Built for safe, checksum-valid save manipulation  
 - Continuously refined for reliability and accessibility
 
