@@ -43,7 +43,7 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 ---
 
 ### **[dqix-functions](https://github.com/DQIX/dqix-functions)**
-> A catalog of **reverse-engineered functions** from *Dragon Quest IX (Japanese version)*.
+> A catalog **discovered functions** from *Dragon Quest IX (Japanese version)*.
 - Structured in a format compatible with `resymgen`
 - Each entry includes the function’s **address**, **name**, and **description** of its identified purpose  
 - Result of **over two years** of research and analysis  
