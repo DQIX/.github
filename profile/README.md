@@ -1,7 +1,7 @@
-# 🌌 DQI-Hax: SWEs of the Starry Skies
+# 🌌 DQI-haX: SWEs of the Starry Skies
 > *Reverse engineering the heavens of Dragon Quest IX: Sentinels of the Starry Skies.*
 
-**DQI-Hax** is a GitHub organization dedicated to preserving, understanding, and expanding the world of *Dragon Quest IX* for the Nintendo DS.  
+**DQI-haX** is a GitHub organization dedicated to preserving, understanding, and expanding the world of *Dragon Quest IX* for the Nintendo DS.  
 From reverse engineering to data curation and in-browser tooling — we are building a complete open technical ecosystem for the game’s future.
 
 ---
@@ -62,4 +62,4 @@ We aim to:
 
 ## ⚔️ Join the Journey
 
-Whether you’re here to explore the code, edit your saves, or uncover the secrets of the Starry Skies — **DQI-Hax** is the constellation where research, preservation, and passion converge.
+Whether you’re here to explore the code, edit your saves, or uncover the secrets of the Starry Skies — **DQI-haX** is the constellation where research, preservation, and passion converge.
