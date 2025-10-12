@@ -1,5 +1,4 @@
 # 🌌 DQI-Hax: SWEs of the Starry Skies
-
 > *Reverse engineering the heavens of Dragon Quest IX: Sentinels of the Starry Skies.*
 
 **DQI-Hax** is a GitHub organization dedicated to preserving, understanding, and expanding the world of *Dragon Quest IX* for the Nintendo DS.  
@@ -9,51 +8,46 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ## 🧩 Projects
 
-
 ### **[Collapsus](https://github.com/DQIX/Collapsus)**
 > A comprehensive Discord bot for *Dragon Quest IX*.
-
-
 - Full game database: recipes, quests, monsters, and grottos  
-- Random character generation
+- Random character generation  
 - Playback of the entire DQIX soundtrack  
 - Regional term translation and cross-version name lookup  
-- Constantly expanding knowledge base drawn from in-game data
-
+- Constantly expanding knowledge base drawn from in-game data  
 
 ---
-
 
 ### **[dqix-decomp](https://github.com/DQIX/dqix-decomp)**
 > An ongoing decompilation project for *Dragon Quest IX* using `dsd`.
-
-
 - Focused on reconstructing the game’s original DS binaries  
 - Aimed at future modding, documentation, and research  
-- **Note:** Early-stage work in progress — not yet feature-complete or buildable
-
+- **Note:** Early-stage work in progress — not yet feature-complete or buildable  
 
 ---
-
 
 ### **[editor](https://github.com/DQIX/editor)**
 > A modern, **browser-based save editor** for *Dragon Quest IX: Sentinels of the Starry Skies.*
-
-
 - Runs entirely client-side — no downloads or installs  
 - Built for safe, checksum-valid save manipulation  
-- Continuously refined for reliability and accessibility
-
+- Continuously refined for reliability and accessibility  
 
 ---
 
-
 ### **[DQIX Save Editor](https://github.com/DQIX/DQIX-Save-Editor-Decompilation)**
 > A **decompilation** of the original Windows save editor.
-
 - Decompiled for archival and historical reference  
 - Retains legacy editing logic for research and comparison  
-- **Not documented** — preserved in raw decompiled form updated to .NET 8
+- **Not documented** — preserved in raw decompiled form updated to .NET 8  
+
+---
+
+### **[dqix-functions](https://github.com/DQIX/dqix-functions)**
+> A catalog of **reverse-engineered functions** from *Dragon Quest IX (Japanese version)*.
+- Structured in a format compatible with `resymgen`
+- Each entry includes the function’s **address**, **name**, and **description** of its identified purpose  
+- Result of **over two years** of research and analysis  
+- Released to **prevent redundant redevelopment** and enable consistent reuse of verified function data across projects  
 
 ---
 
@@ -62,12 +56,10 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 We aim to:
 - **Reverse engineer** and **document** DQIX internals  
 - **Preserve** the technical legacy of a genre-defining RPG  
-- **Enable** fans, modders, and researchers through open tools and shared data
+- **Enable** fans, modders, and researchers through open tools and shared data  
 
 ---
 
 ## ⚔️ Join the Journey
 
 Whether you’re here to explore the code, edit your saves, or uncover the secrets of the Starry Skies — **DQI-Hax** is the constellation where research, preservation, and passion converge.
-
----
