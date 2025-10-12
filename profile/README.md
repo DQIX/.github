@@ -41,16 +41,6 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ---
 
-### **[DQIX Save Editor](https://github.com/DQIX/DQIX-Save-Editor-Decompilation)**
-
-> A **decompilation** of the original Windows save editor.
-
-* Decompiled for archival and technical analysis
-* Preserves original logic and interface behavior
-* **Note:** undocumented raw decompilation targeting .NET 8
-
----
-
 ### **[dqix-functions](https://github.com/DQIX/dqix-functions)**
 
 > A catalog of **discovered functions** from the Japanese version of *Dragon Quest IX*.
@@ -69,6 +59,16 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 * Display internal game data such as RNG tables and memory values
 * Automate repetitive inputs and testing sequences with macros
 * Reproduce specific battle or map conditions for controlled experimentation
+
+---
+
+### **[DQIX Save Editor](https://github.com/DQIX/DQIX-Save-Editor-Decompilation)**
+
+> A **decompilation** of the original Windows save editor.
+
+* Decompiled for archival and technical analysis
+* Preserves original logic and interface behavior
+* **Note:** undocumented raw decompilation targeting .NET 8
 
 ---
 
