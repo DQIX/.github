@@ -33,11 +33,11 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ### **[editor](https://github.com/DQIX/editor)**
 
-> A modern **browser-based save editor** for *Dragon Quest IX*.
+> A modern **cross-platform, browser-based save editor** for *Dragon Quest IX: Sentinels of the Starry Skies*.
 
-* Runs fully client-side — no installation required
-* Safe, checksum-aware save modification
-* Continuously updated for usability and reliability
+* Runs fully client-side with Progressive Web App support
+* “Correct-by-default” editing model that prevents corruption
+* Integrated labeled hex editor for advanced experimentation
 
 ---
 
@@ -46,7 +46,7 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 > A catalog of **discovered functions** from the Japanese version of *Dragon Quest IX*.
 
 * Structured for compatibility with `resymgen`
-* Each entry contains address, name, and identified purpose
+* Each entry includes address, name, and identified purpose
 * Result of multi-year research effort
 * Promotes reuse and cross-project consistency
 
@@ -56,13 +56,13 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 > A collection of **Lua scripts** for the DeSmuME emulator to analyze and automate *Dragon Quest IX*.
 
-* Display internal game data such as RNG tables and memory values
+* Display internal data such as RNG tables and memory values
 * Automate repetitive inputs and testing sequences with macros
 * Reproduce specific battle or map conditions for controlled experimentation
 
 ---
 
-### **[DQIX Save Editor](https://github.com/DQIX/DQIX-Save-Editor-Decompilation)**
+### **[DQIX-Save-Editor-Decompilation](https://github.com/DQIX/DQIX-Save-Editor-Decompilation)**
 
 > A **decompilation** of the original Windows save editor.
 
@@ -74,7 +74,7 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ## 🌠 Mission
 
-* **Reverse engineer** and document *DQIX* internals
+* **Reverse-engineer** and document *DQIX* internals
 * **Preserve** the technical legacy of a landmark RPG
 * **Empower** modders, archivists, and researchers through open tooling
 
