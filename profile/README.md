@@ -21,13 +21,13 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ---
 
-### **[dqix-decomp](https://github.com/DQIX/dqix-decomp)**
+### **[auction](https://github.com/DQIX/auction)**
 
-> Ongoing decompilation of *Dragon Quest IX* using `dsd`.
+> A **custom DLC data generator** for *Dragon Quest IX*.
 
-* Reconstructs DS binaries for study and modification
-* Enables code documentation, symbol mapping, and restoration
-* **Status:** early-stage research, not yet buildable
+* Web-based interface for rapid item selection and configuration
+* Produces fully customized item lists with any combination of items, amounts, and quantities
+* Designed to generate downloadable content enabling acquisition of any in-game item
 
 ---
 
@@ -38,6 +38,16 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 * Runs fully client-side with Progressive Web App support
 * “Correct-by-default” editing model that prevents corruption
 * Integrated labeled hex editor for advanced experimentation
+
+---
+
+### **[dqix-decomp](https://github.com/DQIX/dqix-decomp)**
+
+> Ongoing decompilation of *Dragon Quest IX* using `dsd`.
+
+* Reconstructs DS binaries for study and modification
+* Enables code documentation, symbol mapping, and restoration
+* **Status:** early-stage research, not yet buildable
 
 ---
 
