@@ -33,7 +33,7 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ### **[editor](https://github.com/DQIX/editor)**
 
-> A modern **cross-platform, browser-based save editor** for *Dragon Quest IX: Sentinels of the Starry Skies*.
+> A modern **cross-platform, browser-based save editor** for *Dragon Quest IX*.
 
 * Runs fully client-side with Progressive Web App support
 * “Correct-by-default” editing model that prevents corruption
