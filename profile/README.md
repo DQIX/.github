@@ -74,7 +74,7 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ### **[DQIX-Save-Editor-Decompilation](https://github.com/DQIX/DQIX-Save-Editor-Decompilation)**
 
-> A **decompilation** of the original Windows save editor.
+> A **decompilation** of the original Windows save editor for *Dragon Quest IX*.
 
 * Decompiled for archival and technical analysis
 * Preserves original logic and interface behavior
