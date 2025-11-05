@@ -21,16 +21,6 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ---
 
-### **[auction](https://github.com/DQIX/auction)**
-
-> A **custom DLC data generator** for *Dragon Quest IX*.
-
-* Web-based interface for rapid item selection and configuration
-* Produces fully customized item lists with any combination of items, amounts, and quantities
-* Designed to generate downloadable content enabling acquisition of any in-game item
-
----
-
 ### **[editor](https://github.com/DQIX/editor)**
 
 > A modern **cross-platform, browser-based save editor** for *Dragon Quest IX*.
@@ -38,6 +28,16 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 * Runs fully client-side with Progressive Web App support
 * “Correct-by-default” editing model that prevents corruption
 * Integrated labeled hex editor for advanced experimentation
+
+---
+
+### **[auction](https://github.com/DQIX/auction)**
+
+> A **custom DLC data generator** for *Dragon Quest IX*.
+
+* Web-based interface for rapid item selection and configuration
+* Produces fully customized item lists with any combination of items, amounts, and quantities
+* Designed to generate downloadable content enabling acquisition of any in-game item
 
 ---
 
