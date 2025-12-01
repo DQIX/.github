@@ -41,6 +41,16 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ---
 
+### **[DQIXArchiveTool](https://github.com/DQIX/DQIXArchiveTool)**
+
+> Program for extracting and repacking `.gp2` archive files from *Dragon Quest IX*.
+
+* Handles the game’s primary asset archives used across the ROM
+* Enables file ripping and replacement for modification workflows
+* Provides compression and decompression functionality for supported asset types
+
+---
+
 ### **[dqix-decomp](https://github.com/DQIX/dqix-decomp)**
 
 > Ongoing decompilation of *Dragon Quest IX* using `dsd`.
