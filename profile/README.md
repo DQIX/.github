@@ -127,3 +127,4 @@ A decompilation of the original Windows save editor for *Dragon Quest IX*.
 ## ⚔️ Join the Journey
 
 Whether exploring the code, perfecting a save, or charting unseen mechanics — **DQI-haX** unites research, preservation, and precision under one constellation.
+https://discord.gg/dqix
