@@ -1,11 +1,11 @@
-# ![Slime GIF](https://cdn.discordapp.com/emojis/781593582455881799.gif?v=1) DQI-haX: SWEs of the Starry Skies
+# <img src="https://cdn.discordapp.com/emojis/781593582455881799.webp?animated=true" alt="Slime GIF"> DQI-haX: SWEs of the Starry Skies
 
 DQI-haX is a GitHub organization dedicated to preserving, understanding, and expanding the world of *Dragon Quest IX* for the Nintendo DS.
 From reverse engineering to data curation and in-browser tooling — we are building a complete open technical ecosystem for the game’s future.
 
 ---
 
-## 🧩 Projects
+# <img src="https://cdn.discordapp.com/emojis/866763396108386304.webp" alt="Krakpot WEBP" height="35"> Projects
 
 <details>
 <summary><strong><a href="https://github.com/DQIX/Collapsus">Collapsus</a> — A comprehensive Discord bot</strong></summary>
@@ -128,6 +128,6 @@ A decompilation of the original Windows save editor.
 
 ---
 
-## ⚔️ Join the Journey
+# <img src="https://cdn.discordapp.com/emojis/811350512993435689.webp" alt="Pavo WEBP" height="35"> Join the Journey
 
 https://discord.gg/dqix
