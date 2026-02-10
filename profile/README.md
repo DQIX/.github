@@ -51,6 +51,20 @@ A custom DLC data generator for *Dragon Quest IX*.
 ---
 
 <details>
+<summary><strong><a href="https://github.com/DQIX/BattleEmulator">BattleEmulator</a> — High-performance cross-platform battle emulator</strong></summary>
+
+A highly optimized battle emulator for *Dragon Quest IX*, built to support solo RTA analysis and deterministic simulation.
+
+* Executes ~13 million battle simulations per second  
+* Accurately reproduces behavior of a broad range of story bosses  
+* Written in C++ with native x86_64 and WebAssembly targets  
+* Runs cross-platform, including directly in the browser  
+
+</details>
+
+---
+
+<details>
 <summary><strong><a href="https://github.com/DQIX/DQIXArchiveTool">DQIXArchiveTool</a> — A gp2 archive extractor and repacker</strong></summary>
 
 Program for extracting and repacking `.gp2` archive files from *Dragon Quest IX*.
