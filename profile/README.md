@@ -1,6 +1,6 @@
-# 🌌 DQI-haX: SWEs of the Starry Skies
+# ![Slime GIF](https://cdn.discordapp.com/emojis/781593582455881799.gif?v=1) DQI-haX: SWEs of the Starry Skies
 
-**DQI-haX** is a GitHub organization dedicated to preserving, understanding, and expanding the world of *Dragon Quest IX* for the Nintendo DS.
+DQI-haX is a GitHub organization dedicated to preserving, understanding, and expanding the world of *Dragon Quest IX* for the Nintendo DS.
 From reverse engineering to data curation and in-browser tooling — we are building a complete open technical ecosystem for the game’s future.
 
 ---
