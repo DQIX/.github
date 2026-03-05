@@ -110,6 +110,6 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 
 ---
 
-# <img src="https://cdn.discordapp.com/emojis/811350512993435689.webp" alt="Pavo WEBP" height="35"> Join the Journey
+# <img src="https://cdn.discordapp.com/emojis/811350512993435689.webp" alt="Pavo WEBP" height="35"> Join the Party
 
 https://discord.gg/dqix
