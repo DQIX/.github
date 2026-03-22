@@ -55,7 +55,7 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 ---
 
 <details>
-<summary><strong><a href="https://github.com/DQIX/DQIXArchiveTool">DQIXArchiveTool</a> — A gp2 archive extractor and repacker</strong></summary>
+<summary><strong><a href="https://github.com/DQIX/ArchiveTool">ArchiveTool</a> — A gp2 archive extractor and repacker</strong></summary>
 
 * Handles the game’s primary asset archives used across the ROM  
 * Enables file ripping and replacement for modification workflows  
