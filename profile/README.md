@@ -100,7 +100,7 @@ From reverse engineering to data curation and in-browser tooling — we are buil
 ---
 
 <details>
-<summary><strong><a href="https://github.com/DQIX/DQIX-Save-Editor-Decompilation">DQIX-Save-Editor-Decompilation</a> — Decompilation of the original Windows save editor</strong></summary>
+<summary><strong><a href="https://github.com/DQIX/Save-Editor-Decomp">Save-Editor-Decomp</a> — Decompilation of the original Windows save editor</strong></summary>
 
 * Decompiled for archival and technical analysis  
 * Preserves original logic and interface behavior  
