@@ -1,4 +1,4 @@
-# <img src="https://cdn.discordapp.com/emojis/781593582455881799.webp?animated=true" alt="Slime GIF"> DQI-haX: SWEs of the Starry Skies
+# <img src="https://cdn.discordapp.com/emojis/781593582455881799.webp?animated=true" alt="Slime GIF"> DQI-haX: Decompiling, Reverse engineering, Programming
 
 Reverse engineering, tools, and data for *Dragon Quest IX: Sentinels of the Starry Skies* on the Nintendo DS.
 
